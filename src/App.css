@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.App {
+  background-color: rgb(165, 154, 154, 0.8);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.randomNum p {
+  font-size: 24px;
+  margin-bottom: 50px;
+  color: brown;
+  font-weight: bold;
+}
+.numDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 30%;
+  gap: 20px;
+  height: 15%;
+}
+.numDiv .minNum {
+  display: flex;
+  flex-direction: row;
+
+  align-items: center;
+}
+.numDiv .maxNum {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.minNum label {
+  margin-right: 14.5px;
+  font-size: 24px;
+}
+.maxNum label {
+  margin-right: 12px;
+  font-size: 24px;
+}
+
+button {
+  width: 200px;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  border-radius: 15px;
+  cursor: pointer;
+  font-size: 16px;
+  background-color: rgb(208, 30, 23);
+}
