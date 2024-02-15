@@ -1,8 +1,5 @@
-# React + Vite
+<h3>react ile basit bir random number uygulaması</h3>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![img1](https://github.com/emrahbyz/Random-number/assets/146847947/f496619a-df43-4a52-8e97-0d17f85b7eaa)
+![img2](https://github.com/emrahbyz/Random-number/assets/146847947/b3ceb41b-b8f3-45f2-bfd0-32c4cc93417a)
